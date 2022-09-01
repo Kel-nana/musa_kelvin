@@ -1,0 +1,9 @@
+#image{
+    max-width:100%;
+    height: auto;
+    position:center;
+   
+  }
+  img{
+   display:block;
+  }
